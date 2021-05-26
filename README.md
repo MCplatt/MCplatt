@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MCplatt
 
 - 👀 I’m interested in pathfinding algorithims, Visual Processing and Video Game Development.
+- 
     For Pathfind Algorithms i researched and programmed a homebrew A* algorithm that solved pictures of mazes fed to it by the openCV library.
     
     For Visual Processing I have used openCV for most picture breakdown and analysing for my previously stated maze solving app and for moy other 
